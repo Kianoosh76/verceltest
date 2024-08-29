@@ -221,3 +221,4 @@ describe("Task 3: Multi-section page layout", () => {
     expect(flexDirection).toBe("column"); // Should stack vertically on small screens
   });
 });
+
